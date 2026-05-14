@@ -9,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=2,19,30&section=header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello%2C+it's+Aishwarya+Sivakumar;Risk+Analyst" alt="Risk Analyst"/>  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=600&lines=Hello%2C+it's+Aishwarya+Sivakumar;Risk+Analytics+•+Governance+•+Automation" alt="Typing SVG"/>  
 </a>
 
 </div>
