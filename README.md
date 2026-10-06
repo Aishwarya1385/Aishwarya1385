@@ -50,4 +50,4 @@
 
 ⚡ Fun Fact:
 > I started learning automation because manually updating Excel trackers felt personally offensive.
-
+[![Aishwarya Sivakumar profile views](https://u8views.com/api/v1/github/profiles/283267117/views/day-week-month-total-count.svg)](https://u8views.com/github/Aishwarya1385)
